@@ -1,0 +1,62 @@
+{
+  "employeedata": [
+    {
+      "id": "21e8",
+      "name": "Sumit Raghuwanshi",
+      "email": "Sumit@gmail.com",
+      "post": "MERN Developer",
+      "position": "Junr",
+      "department": "IT Department",
+      "status": "active"
+    },
+    {
+      "id": "655a",
+      "name": "Rahul Raghuwanshi",
+      "email": "rahul@gmail.com",
+      "post": "Software developer",
+      "position": "Junior",
+      "department": "IT Department",
+      "status": "pause"
+    },
+    {
+      "id": "d7be",
+      "name": "praful shrivastava",
+      "email": "praful@gmail.com",
+      "title": "",
+      "post": "Software Engineer",
+      "position": "Senior",
+      "department": "IT Department",
+      "status": "Active"
+    },
+    {
+      "id": "530a",
+      "name": "kushagra",
+      "email": "kushagra@gmail.com",
+      "title": "",
+      "post": "Software developer",
+      "position": "Senior",
+      "department": "IT Department",
+      "status": "a"
+    },
+    {
+      "id": "20f5",
+      "name": "Sumit Raghwanshi",
+      "email": "dasdds@kjjkl",
+      "title": "",
+      "post": "kl",
+      "position": "hjk",
+      "department": "kljj",
+      "status": "hkj"
+    },
+    {
+      "id": "4bce",
+      "name": "Puneet Sahu",
+      "email": "puneet@gmail.com",
+      "title": "",
+      "post": "Software developer",
+      "position": "Senior",
+      "department": "IT Department",
+      "status": "active"
+    }
+  ]
+}
